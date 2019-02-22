@@ -1,5 +1,5 @@
 # Social and Emotional Correlates of Capitalization on Twitter
-Disclaimer - these were the scripts that I used to for the project, but this was back in 2016 when organization was not a priority for me. I hope to organize these scripts in the future, but for now they're here for reference.
+Disclaimer - these are the scripts that were used for the project, but this was back in 2016 when organization was not a priority for me. I hope to organize these scripts in the future, but for now they're here for reference. :) 
 
 The scripts here are meant to reproduce the results in [this workshop paper (Chan & Fyshe, 2018)](http://www.aclweb.org/anthology/W18-1102), and are organized by the section of the paper they correspond to.
 
