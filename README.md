@@ -5,4 +5,4 @@ The scripts here are meant to reproduce the results in [this workshop paper (Cha
 
 The input dataset is from [Exploring Demographic Language Variations to Improve Multilingual Sentiment Analysis in Social Media (Volkova, Wilson, & Yarowsky, 2013)](https://www.cs.jhu.edu/~svitlana/papers/VWY-emnlp2013.pdf) and can be downloaded [here](https://www.cs.jhu.edu/~svitlana/data/data_emnlp2013.tar.gz). Since Twitter restricts the sharing of data, the dataset lists tweet ids but you will need to fetch the actual tweets (see [this resource](https://gwu-libraries.github.io/sfm-ui/posts/2017-09-14-twitter-data)). Only the English tweets were used.
 
-The tweets were tagged using the [TweeboParser](https://github.com/ikekonglp/TweeboParser), and the [Google Books English 1-grams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html) were used to obtain true frequency approximations.
+The tweets were tagged using [TweeboParser](https://github.com/ikekonglp/TweeboParser), and [Google Books English 1-grams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html) were used to obtain true frequency approximations.
